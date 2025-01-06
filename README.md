@@ -1,6 +1,6 @@
 # GGather Bookmark Fixer
 
-**Automatically fix broken thumbnails, titles and descriptions in GGather!** 
+**Automatically fix broken thumbnails, titles and descriptions in [GGather](https://web.ggather.com)!** 
 
 This script restores GGather's broken bookmark functionality by automatically adding preview images, titles, and descriptions when you save bookmarks.
 
