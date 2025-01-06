@@ -15,7 +15,7 @@ This script restores GGather's broken bookmark functionality by automatically ad
 ## Installation
 
 1. Install [Tampermonkey](https://www.tampermonkey.net/)
-2. Click to install: [Install GGather Bookmark Fixer](https://greasyfork.org/pl/scripts/523032)
+2. Click to install: [Install GGather Bookmark Fixer](https://update.greasyfork.org/scripts/523032/GGather%20Bookmark%20Fixer.user.js)
 
 ## How to Use
 
